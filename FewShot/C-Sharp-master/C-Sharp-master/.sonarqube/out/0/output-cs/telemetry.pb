@@ -1,0 +1,1 @@
+rR\C:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Utilities\Utilities.csproj¢net8.0òCSharp12

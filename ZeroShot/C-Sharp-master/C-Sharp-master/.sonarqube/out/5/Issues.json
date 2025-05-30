@@ -1,0 +1,586 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.13.0.0",
+        "fileVersion": "4.13.0-3.25210.5 (fe188fa9)",
+        "semanticVersion": "4.13.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 113,
+                  "endLine": 83,
+                  "endColumn": 124
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 114,
+                  "endLine": 89,
+                  "endColumn": 125
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 113,
+                  "endLine": 101,
+                  "endColumn": 127
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 113,
+                  "endLine": 107,
+                  "endColumn": 130
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 113,
+                  "endLine": 119,
+                  "endColumn": 133
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 22,
+                  "endLine": 134,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 22,
+                  "endLine": 136,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 138,
+                  "startColumn": 22,
+                  "endLine": 138,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 181,
+                  "startColumn": 113,
+                  "endLine": 181,
+                  "endColumn": 127
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 159,
+                  "startColumn": 22,
+                  "endLine": 159,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 238,
+                  "startColumn": 21,
+                  "endLine": 238,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 239,
+                  "startColumn": 21,
+                  "endLine": 239,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 275,
+                  "startColumn": 109,
+                  "endLine": 275,
+                  "endColumn": 123
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'GetParamsForSinglePointTest' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Other/MandelbrotTest.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 64,
+                  "endLine": 15,
+                  "endColumn": 91
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'BuildExchangesForTest' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 188,
+                  "startColumn": 40,
+                  "endLine": 188,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1825",
+          "level": "note",
+          "message": "Avoid unnecessary zero-length array allocations.  Use Array.Empty<Dictionary<int, float>>() instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Graph/MinimumSpanningTree/KruskalTest.cs",
+                "region": {
+                  "startLine": 310,
+                  "startColumn": 25,
+                  "endLine": 310,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1825",
+          "level": "note",
+          "message": "Avoid unnecessary zero-length array allocations.  Use Array.Empty<Dictionary<int, float>>() instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Graph/MinimumSpanningTree/KruskalTest.cs",
+                "region": {
+                  "startLine": 311,
+                  "startColumn": 31,
+                  "endLine": 311,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'CalculateTotalWeight' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Graph/MinimumSpanningTree/KruskalTest.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 23,
+                  "endLine": 17,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'CountEdges' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Graph/MinimumSpanningTree/KruskalTest.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 21,
+                  "endLine": 34,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'AssertMatricesAreEqual' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Graph/MinimumSpanningTree/KruskalTest.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 22,
+                  "endLine": 97,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'CalculateTotalWeight' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Graph/MinimumSpanningTree/KruskalTest.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 23,
+                  "endLine": 51,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'CountEdges' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Graph/MinimumSpanningTree/KruskalTest.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 21,
+                  "endLine": 72,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'AssertAdjacencyListsAreEqual' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/ZeroShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Graph/MinimumSpanningTree/KruskalTest.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 22,
+                  "endLine": 118,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Mark members as static",
+          "fullDescription": "Members that do not access instance data or call instance methods can be marked as static. After you mark the methods as static, the compiler will emit nonvirtual call sites to these members. This can give you a measurable performance gain for performance-sensitive code.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1825": {
+          "id": "CA1825",
+          "shortDescription": "Avoid zero-length array allocations",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1825",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1861": {
+          "id": "CA1861",
+          "shortDescription": "Avoid constant arrays as arguments",
+          "fullDescription": "Constant arrays passed as arguments are not reused when called repeatedly, which implies a new array is created each time. Consider extracting them to 'static readonly' fields to improve performance if the passed array is not mutated within the called method.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1861",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

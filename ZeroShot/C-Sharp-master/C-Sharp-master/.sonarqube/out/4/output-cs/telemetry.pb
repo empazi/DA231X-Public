@@ -1,0 +1,1 @@
+uR_C:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\Algorithms\Algorithms.csproj¢net8.0òCSharp12

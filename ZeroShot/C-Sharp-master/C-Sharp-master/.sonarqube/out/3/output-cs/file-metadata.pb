@@ -1,0 +1,10 @@
+ô
+çC:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\DataStructures.Tests\obj\Debug\net8.0\DataStructures.Tests.AssemblyInfo.csutf-8£
+óC:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\DataStructures.Tests\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8}
+rC:\Users\emirc\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8É
+zC:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\DataStructures.Tests\ScapegoatTree\ScapegoatTreeTest.csutf-8p
+gC:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\DataStructures.Tests\TimelineTest.csutf-8Å
+xC:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\DataStructures.Tests\RedBlackTree\RedBlackTreeTest.csutf-8à
+C:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\DataStructures.Tests\Heap\FibonacciHeap\FibonacciHeapTest.csutf-8É
+zC:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\DataStructures.Tests\Graph\DirectedWeightedGraphTest.csutf-8p
+gC:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\DataStructures.Tests\BitArrayTest.csutf-8

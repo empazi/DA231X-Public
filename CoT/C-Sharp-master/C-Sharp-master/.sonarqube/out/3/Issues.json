@@ -1,0 +1,544 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.13.0.0",
+        "fileVersion": "4.13.0-3.25210.5 (fe188fa9)",
+        "semanticVersion": "4.13.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'left' in 'bool Timeline<string>.operator ==(Timeline<string> left, Timeline<string> right)'.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/TimelineTest.cs",
+                "region": {
+                  "startLine": 252,
+                  "startColumn": 26,
+                  "endLine": 252,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'right' in 'bool Timeline<string>.operator ==(Timeline<string> left, Timeline<string> right)'.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/TimelineTest.cs",
+                "region": {
+                  "startLine": 252,
+                  "startColumn": 33,
+                  "endLine": 252,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'left' in 'bool Timeline<string>.operator ==(Timeline<string> left, Timeline<string> right)'.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/TimelineTest.cs",
+                "region": {
+                  "startLine": 269,
+                  "startColumn": 26,
+                  "endLine": 269,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'right' in 'bool Timeline<string>.operator ==(Timeline<string> left, Timeline<string> right)'.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/TimelineTest.cs",
+                "region": {
+                  "startLine": 286,
+                  "startColumn": 33,
+                  "endLine": 286,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field '_tree' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 35,
+                  "endLine": 15,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 35,
+                  "endLine": 15,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 65,
+                  "endLine": 58,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 60,
+                  "endLine": 89,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/BitArrayTests.cs",
+                "region": {
+                  "startLine": 270,
+                  "startColumn": 41,
+                  "endLine": 270,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "bits"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 268,
+                  "startColumn": 60,
+                  "endLine": 268,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 333,
+                  "startColumn": 60,
+                  "endLine": 333,
+                  "endColumn": 76
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 338,
+                  "startColumn": 60,
+                  "endLine": 338,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 351,
+                  "startColumn": 60,
+                  "endLine": 351,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 365,
+                  "startColumn": 60,
+                  "endLine": 365,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 374,
+                  "startColumn": 60,
+                  "endLine": 374,
+                  "endColumn": 87
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 380,
+                  "startColumn": 60,
+                  "endLine": 380,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 388,
+                  "startColumn": 60,
+                  "endLine": 388,
+                  "endColumn": 91
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 395,
+                  "startColumn": 60,
+                  "endLine": 395,
+                  "endColumn": 87
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTests.cs",
+                "region": {
+                  "startLine": 418,
+                  "startColumn": 60,
+                  "endLine": 418,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expected"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'CreateForeignVertex' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/DataStructures.Tests/Graph/DirectedWeightedGraphTests.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 27,
+                  "endLine": 14,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Mark members as static",
+          "fullDescription": "Members that do not access instance data or call instance methods can be marked as static. After you mark the methods as static, the compiler will emit nonvirtual call sites to these members. This can give you a measurable performance gain for performance-sensitive code.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1861": {
+          "id": "CA1861",
+          "shortDescription": "Avoid constant arrays as arguments",
+          "fullDescription": "Constant arrays passed as arguments are not reused when called repeatedly, which implies a new array is created each time. Consider extracting them to 'static readonly' fields to improve performance if the passed array is not mutated within the called method.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1861",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Possible null reference argument.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

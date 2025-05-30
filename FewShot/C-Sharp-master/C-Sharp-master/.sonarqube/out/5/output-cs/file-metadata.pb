@@ -1,0 +1,10 @@
+ê
+ÑC:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\obj\Debug\net8.0\Algorithms.Tests.AssemblyInfo.csutf-8û
+íC:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8}
+rC:\Users\emirc\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8ó
+çC:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Problems\DynamicProgramming\DynamicCoinChangeSolverTest.csutf-8y
+pC:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Other\RGBHSVConversionTest.csutf-8s
+jC:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Other\MandelbrotTest.csutf-8v
+mC:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Other\KochsnowflakeTest.csutf-8Ñ
+{C:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Graph\MinimumSpanningTree\KruskalTest.csutf-8k
+bC:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\AssemblyInfo.csutf-8

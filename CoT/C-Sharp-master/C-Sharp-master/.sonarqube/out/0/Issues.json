@@ -1,0 +1,98 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.13.0.0",
+        "fileVersion": "4.13.0-3.25210.5 (fe188fa9)",
+        "semanticVersion": "4.13.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S2368",
+          "level": "warning",
+          "message": "Make this method private or simplify its parameters to not use multidimensional/jagged arrays.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/Utilities/Extensions/MatrixExtensions.cs",
+                "region": {
+                  "startLine": 138,
+                  "startColumn": 24,
+                  "endLine": 138,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2368",
+          "level": "warning",
+          "message": "Make this method private or simplify its parameters to not use multidimensional/jagged arrays.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/Utilities/Extensions/MatrixExtensions.cs",
+                "region": {
+                  "startLine": 112,
+                  "startColumn": 29,
+                  "endLine": 112,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2368",
+          "level": "warning",
+          "message": "Make this method private or simplify its parameters to not use multidimensional/jagged arrays.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/CoT/C-Sharp-master/C-Sharp-master/Utilities/Extensions/MatrixExtensions.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 29,
+                  "endLine": 14,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S2368": {
+          "id": "S2368",
+          "shortDescription": "Public methods should not have multidimensional array parameters",
+          "fullDescription": "Using multidimensional and jagged arrays as method parameters in C# can be challenging for developers.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2368",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

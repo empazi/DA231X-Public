@@ -1,0 +1,5 @@
+﻿C:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms\Graph\MinimumSpanningTree\Kruskal.cs
+C:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms\Other\KochSnowflake.cs
+C:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms\Other\Mandelbrot.cs
+C:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms\Other\RGBHSVConversion.cs
+C:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\Algorithms\Problems\DynamicProgramming\CoinChange\DynamicCoinChangeSolver.cs

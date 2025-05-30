@@ -1,0 +1,15 @@
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\bin\Debug\net9.0\ComparingPrompts.exe
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\bin\Debug\net9.0\ComparingPrompts.deps.json
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\bin\Debug\net9.0\ComparingPrompts.runtimeconfig.json
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\bin\Debug\net9.0\ComparingPrompts.dll
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\bin\Debug\net9.0\ComparingPrompts.pdb
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\ComparingPrompts.GeneratedMSBuildEditorConfig.editorconfig
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\ComparingPrompts.AssemblyInfoInputs.cache
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\ComparingPrompts.AssemblyInfo.cs
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\ComparingPrompts.csproj.CoreCompileInputs.cache
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\ComparingPrompts.sourcelink.json
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\ComparingPrompts.dll
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\refint\ComparingPrompts.dll
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\ComparingPrompts.pdb
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\ComparingPrompts.genruntimeconfig.cache
+C:\programmering\mex\DA231X\Comparisons\ComparingPrompts\ComparingPrompts\obj\Debug\net9.0\ref\ComparingPrompts.dll

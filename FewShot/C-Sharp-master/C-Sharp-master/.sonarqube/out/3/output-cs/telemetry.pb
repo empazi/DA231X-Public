@@ -1,0 +1,1 @@
+ˆRrC:\programmering\mex\DA231X\FewShot\C-Sharp-master\C-Sharp-master\DataStructures.Tests\DataStructures.Tests.csproj¢net8.0òCSharp12

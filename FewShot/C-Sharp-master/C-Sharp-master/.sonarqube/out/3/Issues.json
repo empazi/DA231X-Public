@@ -1,0 +1,392 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.13.0.0",
+        "fileVersion": "4.13.0-3.25210.5 (fe188fa9)",
+        "semanticVersion": "4.13.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8620",
+          "level": "warning",
+          "message": "Argument of type '(DateTime, string?)' cannot be used for parameter 'expected' of type '(DateTime, string)' in 'AndConstraint<ComparableTypeAssertions<(DateTime, string)>> ComparableTypeAssertions<(DateTime, string), ComparableTypeAssertions<(DateTime, string)>>.Be((DateTime, string) expected, string because = \"\", params object[] becauseArgs)' due to differences in the nullability of reference types.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/TimelineTests.cs",
+                "region": {
+                  "startLine": 175,
+                  "startColumn": 30,
+                  "endLine": 175,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2187",
+          "level": "warning",
+          "message": "Add some tests to this class.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/BitArrayTests.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 14,
+                  "endLine": 9,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Constructor_WithNegativeCapacity_ThrowsInvalidOperationException creates a new instance of DirectedWeightedGraph which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/Graph/DirectedWeightedGraphTest.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 28,
+                  "endLine": 15,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/BitArrayTests.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 26,
+                  "endLine": 118,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "bits"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Constructor_WithInt_NegativeLength_ThrowsOverflowException creates a new instance of BitArray which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/BitArrayTests.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 32,
+                  "endLine": 34,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Constructor_WithString_EmptySequence_ThrowsArgumentException creates a new instance of BitArray which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/BitArrayTests.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 32,
+                  "endLine": 49,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTest.cs",
+                "region": {
+                  "startLine": 142,
+                  "startColumn": 23,
+                  "endLine": 142,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "keys"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/RedBlackTree/RedBlackTreeTest.cs",
+                "region": {
+                  "startLine": 157,
+                  "startColumn": 23,
+                  "endLine": 157,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "keys"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Constructor_WithInvalidAlpha_ShouldThrowArgumentException creates a new instance of ScapegoatTree which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/ScapegoatTree/ScapegoatTreeTests.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 29,
+                  "endLine": 69,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Constructor_WithInvalidAlpha_ShouldThrowArgumentException creates a new instance of ScapegoatTree which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/ScapegoatTree/ScapegoatTreeTests.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 29,
+                  "endLine": 72,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Constructor_WithInvalidAlpha_ShouldThrowArgumentException creates a new instance of ScapegoatTree which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/ScapegoatTree/ScapegoatTreeTests.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 29,
+                  "endLine": 76,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Constructor_WithString_InvalidSequence_ThrowsArgumentException creates a new instance of BitArray which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/BitArrayTests.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 32,
+                  "endLine": 56,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/BitArrayTests.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 26,
+                  "endLine": 106,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "bits"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/DataStructures.Tests/Heap/FibonacciHeapTests.cs",
+                "region": {
+                  "startLine": 275,
+                  "startColumn": 35,
+                  "endLine": 275,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "elements"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CA1806": {
+          "id": "CA1806",
+          "shortDescription": "Do not ignore method results",
+          "fullDescription": "A new object is created but never used; or a method that creates and returns a new string is called and the new string is never used; or a COM or P/Invoke method returns an HRESULT or error code that is never used.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1806",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1861": {
+          "id": "CA1861",
+          "shortDescription": "Avoid constant arrays as arguments",
+          "fullDescription": "Constant arrays passed as arguments are not reused when called repeatedly, which implies a new array is created each time. Consider extracting them to 'static readonly' fields to improve performance if the passed array is not mutated within the called method.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1861",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8620": {
+          "id": "CS8620",
+          "shortDescription": "Argument cannot be used for parameter due to differences in the nullability of reference types.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8620)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S2187": {
+          "id": "S2187",
+          "shortDescription": "Test classes should contain at least one test case",
+          "fullDescription": "To ensure proper testing, it is important to include test cases in a test class. If a test class does not have any test cases, it can give the wrong impression that the class being tested has been thoroughly tested, when in reality, it has not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2187",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

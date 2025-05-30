@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\Utilities\Utilities.csproj
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\DataStructures.csproj
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\Algorithms\Algorithms.csproj
+
+
+Test projects
+---------------------------------------
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\Utilities.Tests\Utilities.Tests.csproj
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures.Tests\DataStructures.Tests.csproj
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Algorithms.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

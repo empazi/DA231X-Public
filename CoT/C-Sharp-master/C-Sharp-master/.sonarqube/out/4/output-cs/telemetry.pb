@@ -1,0 +1,1 @@
+pRZC:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\Algorithms\Algorithms.csproj¢net8.0òCSharp12

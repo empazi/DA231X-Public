@@ -1,0 +1,16 @@
+﻿C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\BinarySearchTree\BinarySearchTree.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\BinarySearchTree\BinarySearchTreeNode.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\BitArray.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\DisjointSet\DisjointSet.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\DisjointSet\Node.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\Graph\DirectedWeightedGraph.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\Graph\IDirectedWeightedGraph.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\Graph\Vertex.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\Heap\FibonacciHeap\FHeapNode.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\Heap\FibonacciHeap\FibonacciHeap.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\RedBlackTree\RedBlackTree.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\RedBlackTree\RedBlackTreeNode.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\ScapegoatTree\Extensions.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\ScapegoatTree\Node.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\ScapegoatTree\ScapegoatTree.cs
+C:\programmering\mex\DA231X\CoT\C-Sharp-master\C-Sharp-master\DataStructures\Timeline.cs

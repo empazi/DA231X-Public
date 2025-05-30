@@ -1,0 +1,922 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.13.0.0",
+        "fileVersion": "4.13.0-3.25210.5 (fe188fa9)",
+        "semanticVersion": "4.13.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 40,
+                  "endLine": 35,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expectation"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 40,
+                  "endLine": 19,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expectation"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 40,
+                  "endLine": 43,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expectation"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 40,
+                  "endLine": 51,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expectation"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 84,
+                  "endLine": 58,
+                  "endColumn": 95
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 40,
+                  "endLine": 27,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expectation"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 84,
+                  "endLine": 72,
+                  "endColumn": 98
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 84,
+                  "endLine": 79,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 84,
+                  "endLine": 86,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 18,
+                  "endLine": 102,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 18,
+                  "endLine": 103,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 18,
+                  "endLine": 104,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 117,
+                  "startColumn": 18,
+                  "endLine": 117,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 137,
+                  "startColumn": 84,
+                  "endLine": 137,
+                  "endColumn": 98
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 150,
+                  "startColumn": 18,
+                  "endLine": 150,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 151,
+                  "startColumn": 18,
+                  "endLine": 151,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 152,
+                  "startColumn": 18,
+                  "endLine": 152,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 179,
+                  "startColumn": 17,
+                  "endLine": 179,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 180,
+                  "startColumn": 17,
+                  "endLine": 180,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 181,
+                  "startColumn": 17,
+                  "endLine": 181,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 182,
+                  "startColumn": 17,
+                  "endLine": 182,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 183,
+                  "startColumn": 17,
+                  "endLine": 183,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 184,
+                  "startColumn": 17,
+                  "endLine": 184,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 198,
+                  "startColumn": 18,
+                  "endLine": 198,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 199,
+                  "startColumn": 18,
+                  "endLine": 199,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 214,
+                  "startColumn": 71,
+                  "endLine": 214,
+                  "endColumn": 88
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 216,
+                  "startColumn": 40,
+                  "endLine": 216,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expectation"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 224,
+                  "startColumn": 72,
+                  "endLine": 224,
+                  "endColumn": 98
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 225,
+                  "startColumn": 40,
+                  "endLine": 225,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expectation"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 231,
+                  "startColumn": 72,
+                  "endLine": 231,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 237,
+                  "startColumn": 40,
+                  "endLine": 237,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expectation"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 243,
+                  "startColumn": 71,
+                  "endLine": 243,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 40,
+                  "endLine": 244,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "expectation"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 250,
+                  "startColumn": 80,
+                  "endLine": 250,
+                  "endColumn": 91
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 265,
+                  "startColumn": 80,
+                  "endLine": 265,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 272,
+                  "startColumn": 80,
+                  "endLine": 272,
+                  "endColumn": 97
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/programmering/mex/DA231X/FewShot/C-Sharp-master/C-Sharp-master/Algorithms.Tests/Problems/DynamicProgramming/DynamicCoinChangeSolverTest.cs",
+                "region": {
+                  "startLine": 279,
+                  "startColumn": 80,
+                  "endLine": 279,
+                  "endColumn": 100
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "coins"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CA1861": {
+          "id": "CA1861",
+          "shortDescription": "Avoid constant arrays as arguments",
+          "fullDescription": "Constant arrays passed as arguments are not reused when called repeatedly, which implies a new array is created each time. Consider extracting them to 'static readonly' fields to improve performance if the passed array is not mutated within the called method.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1861",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

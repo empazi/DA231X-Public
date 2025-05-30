@@ -1,0 +1,6 @@
+projectKey=CoT
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=CoT
+ceTaskId=7825a932-0a2e-4326-bcac-1abf9bedd1c5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7825a932-0a2e-4326-bcac-1abf9bedd1c5

@@ -1,0 +1,6 @@
+projectKey=FewShot
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=FewShot
+ceTaskId=d27b465f-041c-416e-9c8c-be7866def6ec
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d27b465f-041c-416e-9c8c-be7866def6ec

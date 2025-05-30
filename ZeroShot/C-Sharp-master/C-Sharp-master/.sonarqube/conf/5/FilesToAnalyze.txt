@@ -1,0 +1,16 @@
+﻿C:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\AssemblyInfo.cs
+C:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Graph\MinimumSpanningTree\KruskalTest.cs
+C:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Other\KochSnowflakeTest.cs
+C:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Other\MandelbrotTest.cs
+C:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Other\RGBHSVConversionTest.cs
+C:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\Problems\DynamicProgramming\CoinChange\DynamicCoinChangeSolverTest.cs
+C:\Users\emirc\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\emirc\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\emirc\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\emirc\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\emirc\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\emirc\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.dll
+C:\Users\emirc\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\emirc\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\emirc\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\programmering\mex\DA231X\ZeroShot\C-Sharp-master\C-Sharp-master\Algorithms.Tests\TestResults\834c4bc7-09b6-46c6-9cbd-58f2c82654c1\coverage.cobertura.xml
